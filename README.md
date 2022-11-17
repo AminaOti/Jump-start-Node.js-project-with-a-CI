@@ -1,8 +1,8 @@
-# Jumpstart shell script
+# Jumpstart Node.js project with a CI
 
-This shell script will 'jump start' the creation of a new node.js project with a fully integrated Travis the CI pipeline (shown below), to use this template please see 'Get started' section
+This shell script will 'jump start' the creation of a new node.js project with a fully integrated CI pipeline (shown below), to use this template please see 'Get started' section
 
-## Travis CI Pipeline:
+## CI Pipeline:
 
 The following will be run on a commit & push:
 
@@ -14,11 +14,11 @@ The following will be run on a commit & push:
 - Unit tests
 
 The following will be run on a pull-request:
-
-- Sonar Cloud (tool to detect bugs & vulnerabilities )
-- Snyk security scanning
-- IBM detect secrets
-- Unit tests
+- Travis job that will run the following stages:
+   - Sonar Cloud (tool to detect bugs & vulnerabilities )
+   - Snyk security scanning
+   - IBM detect secrets
+   - Unit tests
 
 ## Get started
 
