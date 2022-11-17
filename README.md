@@ -24,7 +24,7 @@ The following will be run on a pull-request:
 
 1. Clone this repository
 2. ```
-   $ cd jumpstart-shell-script
+   $ cd Jump-start-Node.js-project-with-a-CI
    ```
 
 3. ```
