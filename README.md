@@ -1,6 +1,6 @@
 # Jumpstart Node.js project with a CI
 
-This shell script will 'jump start' the creation of a new node.js project with a fully integrated CI pipeline (shown below), to use this template please see 'Get started' section
+This shell script will 'jump start' the creation of a new node.js project with a fully integrated CI pipeline (shown below), to use this template please see the 'Get started' section
 
 ## CI Pipeline:
 
