@@ -23,9 +23,12 @@ The following will be run on a pull-request:
 ## Get started
 
 1. Clone this repository
-2. ```$ cd jumpstart-shell-scrip
+2. ```
+   $ cd jumpstart-shell-scrip
 
    ```
-3. ```$ bash jumpstart-shell-script.sh
+
+3. ```
+   $ bash jumpstart-shell-script.sh
 
    ```
